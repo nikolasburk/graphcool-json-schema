@@ -1,4 +1,6 @@
 # graphcool-json-schema
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool/graphcool-json-schema.svg)](https://greenkeeper.io/)
 JSON schema of graphcool.yml files
 
 ## Usage
